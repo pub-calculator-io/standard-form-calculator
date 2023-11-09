@@ -13,6 +13,8 @@ Standard form calculator converts any number to standard form or scientific nota
 
 Standard form calculator converts any number to standard form or scientific notation. It accepts number notation, e-notation, and scientific notation.
 
+[Standard Form Calculator Homepage](https://www.calculator.io/standard-form-calculator/ "Standard Form Calculator Homepage")
+
 __Shortcode__
 
 Use the Standard Form Calculator shortcode:
