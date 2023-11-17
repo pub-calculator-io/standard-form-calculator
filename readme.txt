@@ -1,6 +1,6 @@
 === Standard Form Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: standard form calculator, scientific notation, number notation, e-notation, positive decimals, negative decimals, integers, conversion algorithm, big numbers, small numbers
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
