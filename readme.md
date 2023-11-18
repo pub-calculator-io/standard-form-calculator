@@ -1,4 +1,4 @@
-# Standard Form Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Standard Form Calculator Widget for WordPress
 
 Standard form calculator converts any number to standard form or scientific notation. It accepts number notation, e-notation, and scientific notation.
 
