@@ -1,4 +1,4 @@
-=== Standard Form Calculator by Calculator.iO ===
+=== Standard Form Calculator ===
 Contributors: calculatorio
 Tags: standard form calculator, scientific notation, number notation, e-notation, positive decimals, negative decimals, integers, conversion algorithm, big numbers, small numbers
 Requires at least: 5.0
