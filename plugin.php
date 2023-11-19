@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Standard Form Calculator by www.calculator.io
+Plugin Name: CI Standard form calculator
 Plugin URI: https://www.calculator.io/standard-form-calculator/
 Description: Standard form calculator converts any number to standard form or scientific notation. It accepts number notation, e-notation, and scientific notation.
 Version: 1.0.0
