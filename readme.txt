@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Standard Form C
 == Screenshots ==
 
 1. The Standard Form Calculator Input Form.
-2. The Standard Form Calculator Calculation Results.
 
 == Installation ==
 

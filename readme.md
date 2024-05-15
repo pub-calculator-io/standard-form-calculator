@@ -3,7 +3,6 @@
 Standard form calculator converts any number to standard form or scientific notation. It accepts number notation, e-notation, and scientific notation.
 
 ![Standard Form Calculator Input Form](/assets/images/screenshot-1.png "Standard Form Calculator Input Form")
-![Standard Form Calculator Calculation Results](/assets/images/screenshot-2.png "Standard Form Calculator Calculation Results")
 
 ## Installation
 

@@ -28,7 +28,7 @@
             <div class="calculator-setting" id="calculator_form">
                 <div class="calculator-content col">
                 	<div class="input-wrapper row">
-                		<label class="input col   ">
+                		<label class="input col percentage-calculator,decimal-to-fraction-calculator,scientific-notation-converter,fraction-to-decimal-calculator,fraction-to-percent-calculator,scientific-notation-calculator,decimal-to-percent-calculator,percentile-calculator,percent-to-fraction-calculator  ">
                 			<p class="input__title">Number</p>
                 			<div class="input-field row">
                 				<input type="text" class="input-field__input" placeholder=""  id="number" value="345600000"  />
@@ -43,13 +43,16 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
                 
                 
+                	<script type="text/javascript" src="./assets/js/lib/math.min.js" async></script>
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -64,8 +67,7 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><div class="calculator-result col">
 	<div class="result-table__wrapper"> 
 		<table class="result-table">
@@ -77,7 +79,7 @@
 			<tbody>
 				<tr>
 					<th>Standard Form</th>
-					<td id="result">3.456 × 10<sup>8</sup></td>
+					<td id="result" class="animate">3.456 × 10<sup>8</sup></td>
 				</tr>
 			</tbody>
 		</table>
